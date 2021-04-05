@@ -1,3 +1,3 @@
 # Invisibility-Cloak-with-OpenCV
 
-In this project, I tried to create an invisibility cloak using openCV and python. I used an orange coloured cloth as the cloak.
+In this project, I created an invisibility cloak (like the one in Harry Potter movie) using openCV and python. An orange coloured cloth was used as the invisibility cloak.
